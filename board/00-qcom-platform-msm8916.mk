@@ -1,5 +1,6 @@
 # Platform
 TARGET_BOARD_PLATFORM := msm8916
+QCOM_HARDWARE_VARIANT := msm8916
 
 # Architecture
 ifneq ($(FORCE_32_BIT),true)
