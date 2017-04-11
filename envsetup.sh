@@ -1,0 +1,6 @@
+add_lunch_combo cyos_tomato-userdebug
+add_lunch_combo cyos_tomato-user
+add_lunch_combo cyos_lettuce-userdebug
+add_lunch_combo cyos_lettuce-user
+add_lunch_combo cyos_jalebi-userdebug
+add_lunch_combo cyos_jalebi-user
